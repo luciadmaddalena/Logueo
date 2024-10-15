@@ -1,8 +1,32 @@
 body{
-    background-color: aqua;
+    background-color: #e3e3e3;
+}
+
+h1{
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    font-size: 30px;
+    font-weight: bold;
+    color: #CD5C5C;
+    text-align: left;
+    margin-bottom: 25px;
+    text-decoration: underline;
 }
 
 input {
     font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
-    background-color: #e3e3e3;
+    background-color: #ccc;
+    color: #CD5C5C;
+    padding: 5px;
+    border-radius: 5px;
+    
+}
+
+
+.subtitle {
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    font-size: 18px;
+    font-weight: bold;
+    color: #333;
+    margin-top: 15px;
+    margin-bottom: 18px;
 }
